@@ -21,7 +21,7 @@
 <h3>- collaborator_salary (double): Salário do colaborador</h3><br>
 
 <h2>Como Usar</h2><br>
-<h3>1. Clone o repositório: <a href="https://github.com/joaovitorgarciaa/colaboradoresCSharp">Git Clone</a></h3> 
+<h3>1. Clone o repositório: <a href="https://github.com/joaovitorgarciaa/colaboradoresCSharp">https://github.com/joaovitorgarciaa/colaboradoresCSharp</a></h3> 
 <h3>2. Abra o projeto no seu ambiente de desenvolvimento C# preferido (ex.: Visual Studio, VS Code)</h3>
 <h3>3. Compile e execute o program</h3>
 <h3>4. Siga as instruções exibidas na tela para gerenciar colaboradores</h3><br>
