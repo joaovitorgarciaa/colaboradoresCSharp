@@ -1,50 +1,66 @@
 <h1>colaboradoresCSharp</h1>
 
-<h2>Programa de Gerenciamento de Colaboradores</h2>
+<h2>Employee Management Program</h2>
 
-<h2>Descrição</h2>
-<h3>Este é um programa simples de console escrito em C# que gerencia colaboradores (funcionários). O programa permite aos usuários inserir, atualizar, excluir, consultar e listar colaboradores, além de verificar o número total de colaboradores registrados.</h3><br>
+<h2>Description</h2>
+<h3>
+    This is a simple console program written in C# that manages employees. 
+    The program allows users to insert, update, delete, query, and list employees, 
+    as well as check the total number of registered employees.
+</h3>
 
-<h2>Funcionalidades</h2><br>
-<h3>- Inserir novos colaboradores</h3>
-<h3>- Consultar detalhes de um colaborador específico</h3>
-<h3>- Listar todos os colaboradores registrados</h3>
-<h3>- Atualizar detalhes de um colaborador</h3>
-<h3>- Excluir um colaborador do sistema</h3>
-<h3>- Mostrar o número total de colaboradores</h3><br>
+<h2>Features</h2>
+<h3>- Insert new employees</h3>
+<h3>- Query details of a specific employee</h3>
+<h3>- List all registered employees</h3>
+<h3>- Update employee details</h3>
+<h3>- Remove an employee from the system</h3>
+<h3>- Display the total number of employees</h3>
 
-<h2>Estrutura</h2><br>
-<h3>O programa define uma struct Collaborator com os seguintes atributos:</h3>
-<h3>- collaborator_code (int): Identificador único do colaborador</h3>
-<h3>- collaborator_name (string): Nome do colaborador</h3>
-<h3>- collaborator_age (byte): Idade do colaborador</h3>
-<h3>- collaborator_salary (double): Salário do colaborador</h3><br>
+<h2>Structure</h2>
+<h3>
+    The program defines a struct Collaborator with the following attributes:
+</h3>
+<h3>- collaborator_code (int): Unique identifier of the employee</h3>
+<h3>- collaborator_name (string): Name of the employee</h3>
+<h3>- collaborator_age (byte): Age of the employee</h3>
+<h3>- collaborator_salary (double): Salary of the employee</h3>
 
-<h2>Como Usar</h2><br>
-<h3>1. Clone o repositório: <a href="https://github.com/joaovitorgarciaa/colaboradoresCSharp">https://github.com/joaovitorgarciaa/colaboradoresCSharp</a></h3> 
-<h3>2. Abra o projeto no seu ambiente de desenvolvimento C# preferido (ex.: Visual Studio, VS Code)</h3>
-<h3>3. Compile e execute o program</h3>
-<h3>4. Siga as instruções exibidas na tela para gerenciar colaboradores</h3><br>
+<h2>How to Use</h2>
+<h3>1. Clone the repository: 
+    <a href="https://github.com/joaovitorgarciaa/colaboradoresCSharp">
+        https://github.com/joaovitorgarciaa/colaboradoresCSharp
+    </a>
+</h3>
+<h3>2. Open the project in your preferred C# development environment 
+    (e.g., Visual Studio, VS Code)
+</h3>
+<h3>3. Compile and run the program</h3>
+<h3>4. Follow the on-screen instructions to manage employees</h3>
 
-<h2>Opções do Menu</h2><br>
-<h3>Ao executar o programa, o usuário visualizará o seguinte menu:</h3><br> 
+<h2>Menu Options</h2>
+<h3>
+    When executing the program, the user will see the following menu:
+</h3>
 
-<h3>1. Inserir colaboradores</h3>
-<h3>2. Consultar colaborador</h3> 
-<h3>3. Listar todos os colaboradores</h3> 
-<h3>4. Atualizar colaborador</h3>
-<h3>5. Excluir colaborador</h3> 
-<h3>6. Mostrar número de colaboradores</h3>
-<h3>0. Sair</h3>
+<h3>1. Insert employees</h3>
+<h3>2. Query employee</h3> 
+<h3>3. List all employees</h3> 
+<h3>4. Update employee</h3>
+<h3>5. Remove employee</h3> 
+<h3>6. Display total number of employees</h3>
+<h3>0. Exit</h3>
 
-<h3>O usuário deve inserir o número correspondente para realizar a operação desejada.</h3><br>
+<h3>
+    The user must enter the corresponding number to perform the desired operation.
+</h3>
 
-<h2>Requisitos</h2><br>
-<h3>- SDK do .NET instalado</h3> 
-<h3>- Conhecimento básico de C#</h3><br>
+<h2>Requirements</h2>
+<h3>- .NET SDK installed</h3> 
+<h3>- Basic knowledge of C#</h3>
 
-
-<h2>Autores</h2>
-Lucas Ferreira, João Garcia, Susana Domingues<br>
-(ISLA GAIA - 2025 | Engenharia Informática - 1 Ano)
-
+<h2>Authors</h2>
+<h3>
+    Lucas Ferreira, João Garcia, Susana Domingues
+    <br>(ISLA GAIA - 2025 | Computer Engineering - 1st Year)
+</h3>
