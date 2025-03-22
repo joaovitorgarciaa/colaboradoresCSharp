@@ -61,7 +61,5 @@
 <h3>- Conhecimento básico de C#</h3>
 
 <h2>Autores</h2>
-<h3>
     Lucas Ferreira, João Garcia, Susana Domingues
     <br>(ISLA GAIA - 2025 | Engenharia Informática - 1 Ano)
-</h3>
