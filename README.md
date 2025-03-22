@@ -60,7 +60,5 @@
 <h3>- Basic knowledge of C#</h3>
 
 <h2>Authors</h2>
-<h3>
     Lucas Ferreira, João Garcia, Susana Domingues
     <br>(ISLA GAIA - 2025 | Computer Engineering - 1st Year)
-</h3>
