@@ -45,6 +45,6 @@
 
 
 <h2>Autores</h2>
-Lucas Ferreira, João Garcia, Susana Domingues
+Lucas Ferreira, João Garcia, Susana Domingues<br>
 (ISLA GAIA - 2025 | Engenharia Informática - 1 Ano)
 
